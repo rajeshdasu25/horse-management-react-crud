@@ -1,2 +1,4 @@
-# horse-management-react-crud
-Crud operation in React Redux
+## Run the application
+
+* `npm install` to install all dependencies.
+* `npm start` to run the application.
